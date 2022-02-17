@@ -1,0 +1,8 @@
+.login-span{
+    cursor: pointer;
+    font-weight: 700;
+}
+.login-span:hover{
+    color: blue;
+    text-decoration: underline;
+}
